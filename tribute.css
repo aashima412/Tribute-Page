@@ -1,0 +1,23 @@
+main{
+    background-color:#dee2ff;
+    padding:20px;
+    margin:50px 50px;
+    text-align:center;
+  }
+  #title{
+    font-size:4rem;
+  }
+  #img-div{
+    background-color:#8e9aaf;
+  }
+  .heading{
+    font-size:20px;
+  }
+  #img-caption{
+    font-size:2rem;
+  }
+  #image{
+    max-width:100%;
+    height:auto;
+  }
+  
